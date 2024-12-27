@@ -1,0 +1,3 @@
+pip install torch torchvision opencv-python
+pip install git+https://github.com/sberbank-ai/Real-ESRGAN.git
+pip install instaloader
